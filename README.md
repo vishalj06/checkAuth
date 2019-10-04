@@ -1,0 +1,2 @@
+# checkAuth
+understianding git authentication
